@@ -1,8 +1,8 @@
 ![](docs/images/Door_0.png)
 # Door to isekai Project
 
-***Notice: Just before launch***  
-I'm releasing it the fourth week of November.  I'm Strengthening security
+## Notice: Just before launch   
+I'm releasing it the second week of December.  
 
 
 ## What is this?
