@@ -1,2 +1,2 @@
-## Ctrl + A to find text  
+## Ctrl + F to find text  
 
