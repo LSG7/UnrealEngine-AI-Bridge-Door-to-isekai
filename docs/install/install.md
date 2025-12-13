@@ -5,6 +5,8 @@
 So it requires ads to be displayed on the mobile app.  
 The app only serves advertising and activation functions.  
 
+
+### Dont download. It is now working. It will be ready soon
 1. Please install the app.  
 - Android : https://play.google.com/store/apps/details?id=com.doortoisekai.app&pcampaignid=web_share
 - ios : https://apps.apple.com/us/app/door-to-isekai/id6751532802
