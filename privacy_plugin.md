@@ -191,7 +191,7 @@ If you are in the EU/EEA or South Korea, you have the right to lodge a complaint
 - **Legal Basis:** Consent (Article 6(1)(a) GDPR) and Legitimate Interest (Article 6(1)(f))
 - **Data Minimization:** We only process data necessary for the specific MCP tool operation you request
 - **Right to Withdraw Consent:** You may withdraw consent at any time without affecting the lawfulness of processing before withdrawal
-- **Data Protection Officer:** Contact at privacy@door-to-isekai.world
+- **Data Protection Officer:** Contact at isekaitravel.pathfinder@gmail.com
 - **Cross-Border Transfer Safeguards:** Standard Contractual Clauses (SCCs) where applicable
 
 ### For California Residents (CCPA/CPRA)
@@ -206,7 +206,7 @@ If you are in the EU/EEA or South Korea, you have the right to lodge a complaint
   - Identifiers (session ID, machine ID)
   - Internet activity (connection logs, tool usage)
   - Professional information (project data)
-- **"Do Not Sell My Personal Information":** While we do not sell data, you may make a request at privacy@door-to-isekai.world
+- **"Do Not Sell My Personal Information":** While we do not sell data, you may make a request at isekaitravel.pathfinder@gmail.com
 
 ### For Canadian Residents (PIPEDA)
 
@@ -224,7 +224,7 @@ If you are in the EU/EEA or South Korea, you have the right to lodge a complaint
 
 - **Purpose of Use:** AI & Tool-assisted development as specified
 - **Foreign Transfer:** Data transferred to US with your consent
-- **Disclosure Requests:** Contact privacy@door-to-isekai.world
+- **Disclosure Requests:** Contact isekaitravel.pathfinder@gmail.com
 
 ### For Brazilian Residents (LGPD)
 
@@ -245,3 +245,4 @@ If you are in the EU/EEA or South Korea, you have the right to lodge a complaint
 ---
 
 Version 1.7 | Last Updated: 2025-11-28 | Changes: External Services Terminology Update
+
