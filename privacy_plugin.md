@@ -130,7 +130,7 @@ You have the following rights regarding your data:
 
 ### How to Exercise Rights:
 
-- **Contact:** Email us at [pathfinder@door-to-isekai.world](mailto:pathfinder@door-to-isekai.world) for privacy requests
+- **Contact:** Email us at [isekaitravel.pathfinder@gmail.com](mailto:isekaitravel.pathfinder@gmail.com) for privacy requests
 - **Response Time:** We will respond within 30 days (GDPR standard)
 
 ### Complaints:
@@ -171,7 +171,7 @@ We may update this policy. Material changes will be notified through the Portal 
 
 For privacy-related questions, data subject rights requests, or complaints, contact us via:
 
-- **Email:** [pathfinder@door-to-isekai.world](mailto:pathfinder@door-to-isekai.world)
+- **Email:** [isekaitravel.pathfinder@gmail.com](mailto:isekaitravel.pathfinder@gmail.com)
 - **GitHub Issues:** https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/issues (preferred for tracking)
 - **Response Time:** Within 30 days as required by GDPR
 
@@ -245,4 +245,5 @@ If you are in the EU/EEA or South Korea, you have the right to lodge a complaint
 ---
 
 Version 1.7 | Last Updated: 2025-11-28 | Changes: External Services Terminology Update
+
 
