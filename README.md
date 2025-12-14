@@ -19,7 +19,7 @@ I'm releasing it the third week of December.
  3. [how to use doc](docs/howtouse/howtouse.md)
 
 ## 🌌 Youtube Example
-- [Youtube List](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/youtube/youtube.md)
+- [Youtube List](https://www.youtube.com/@IsekaiTravel-DoorToIsekai)
 
 ## 🪐 Your Voice  
 Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)  
