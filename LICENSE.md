@@ -12,9 +12,9 @@ Door to Isekai is an integrated platform that enables collaborative game develop
 
 | Component | Description | Location |
 |-----------|-------------|----------|
-| **Plugin** | UnrealEngine_AI_Bridge - MCP server with 672 tools | Plugins/UnrealEngine_AI_Bridge/ |
+| **Plugin** | UnrealEngine_AI_Bridge - MCP server with 672 tools | GitHub Releases Page |
 | **Backend Server** | AWS-hosted activation and relay service | door-to-isekai.world |
-| **Mobile App** | Flutter app for ad-based activation | mobile/mcp_activation_app/ |
+| **Mobile App** | Flutter app for ad-based activation | Google Play Store / Apple App Store |
 
 By using any component of this service, you agree to the terms outlined below and the full Terms of Service and Privacy Policy available at:
 - **Terms of Service**: http://127.0.0.1:{port}/terms (local web server)
@@ -299,3 +299,4 @@ Note: Version number aligned with Terms of Service (terms.html v1.9) for consist
 - Encouraged for use in teaching and learning
 - Share with students for educational purposes
 - Direct students to official download channels instead of redistributing files
+
