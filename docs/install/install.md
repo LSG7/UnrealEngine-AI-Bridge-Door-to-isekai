@@ -22,7 +22,7 @@ link : I will upload after ios releasing.
 ### 3. Set up Ai Tools [Youtube Manual](https://youtu.be/aU66LB-qbvk)   
 'Door to isekai' is a bridge tool that connects external AI providers with Unreal Engine.  
 **We do not provide the AI models directly.  Please sign up and subscribe to AI providers separately.**  
-Gemini CLI, Claude Desktop offers a free tier.  Claude code, Codex CLI(GPT) is only available to paid users.  
+**Gemini CLI, Claude Desktop offers a free tier.**  Claude code, Codex CLI(GPT) is only available to paid users.  
 This was a description of each AI provider's fee policy.  
 The cost of using AI is determined by each provider (Google, OpenAI, Antropic).  
 'Door to Isekai'  tool is operated solely on advertising.  
@@ -30,10 +30,10 @@ This means that with Gemini CLI free tier, you can use 'Door to isekai' just by 
 Alternatively, you can use a local LLM.  
 Please check the installation method of each AI tool in the youtube video. 
 After installing Python and Node, enter the following commands to install them.  
-Gemini      : npm install -g @google/gemini-cli  
+Gemini CLI  : npm install -g @google/gemini-cli  
 CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
 Codex (GPT) : npm i -g @openai/codex  
-Claude Desktop: [Youtube Manual](https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u)  
+Claude Desktop : [Youtube Manual](https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u)  
 
 ### [Goto Next Step : Setup](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/setup/setup.md)
 ### [Goto Main](https://github.com/LSG7/UnrealEngine_AI_Bridge/tree/main)
