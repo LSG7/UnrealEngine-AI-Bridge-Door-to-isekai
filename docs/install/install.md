@@ -36,7 +36,11 @@ After installing Python and Node, enter the following commands to install them.
 Gemini CLI  : npm install -g @google/gemini-cli  
 CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
 Codex (GPT) : npm i -g @openai/codex  
-Claude Desktop : [Youtube Manual](https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u)  
+Claude Desktop : [Youtube Manual](https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u)
+
+3. AI providers offering free tier  
+   These are AI tools that can be used with 'Door to isekai'.  
+   Gemini CLI, Claude Desktop  
 
 
 ### [Goto Next Step : Setup](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/setup/setup.md)
