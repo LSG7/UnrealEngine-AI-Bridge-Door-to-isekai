@@ -1,14 +1,16 @@
 ## We need to install three things.  
 
-### 1. Download Mobile App  
+### 1. Download Mobile App   
+
+1. Please install the app.  
+- Android : https://play.google.com/store/apps/details?id=com.doortoisekai.app
+- ios : https://apps.apple.com/us/app/door-to-isekai/id6751532802
+
 'Door to isekai' operates solely on advertising revenue.   
 So it requires ads to be displayed on the mobile app.  
 The app only serves advertising and activation functions.  
 
-### Dont download. It is now working. It will be ready soon
-1. Please install the app.  
-- Android : https://play.google.com/store/apps/details?id=com.doortoisekai.app
-- ios : https://apps.apple.com/us/app/door-to-isekai/id6751532802
+
 
 ### 2. Downlaod Unreal Editor Plugin  
 'Door to isekai' is implemented as an Unreal Engine plugin.  
