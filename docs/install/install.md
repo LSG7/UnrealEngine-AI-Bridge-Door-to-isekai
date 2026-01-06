@@ -43,5 +43,5 @@ Claude Desktop : [Youtube Manual](https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF
    Gemini CLI, Claude Desktop  
 
 
-### [Goto Next Step : Setup](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/setup/setup.md)
+### [Goto Next Step : How to use](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)
 ### [Goto Main](https://github.com/LSG7/UnrealEngine_AI_Bridge/tree/main)
