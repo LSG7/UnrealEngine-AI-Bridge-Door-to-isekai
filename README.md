@@ -14,9 +14,8 @@ I'm releasing it the second week of Jan.
   AIs can understand and manipulate unreal project using this tool.  
 
 ## 🌀 Manual  
- 1. [Install doc](docs/install/install.md)
- 2. [Setup doc](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/setup/setup.md)   
- 3. [how to use doc](docs/howtouse/howtouse.md)
+ 1. [Install doc](docs/install/install.md) 
+ 2. [how to use doc](docs/howtouse/howtouse.md)
 
 ## 🌌 Youtube Example
 - [Youtube List](https://www.youtube.com/@IsekaiTravel-DoorToIsekai)
