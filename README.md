@@ -2,7 +2,7 @@
 # Door to isekai Project
 
 ## ✨ Notice: Just before launch   
-I'm releasing it the second week of Jan.  
+I'm testing it out for the last time.
 
 
 ## 💫 What is this?
