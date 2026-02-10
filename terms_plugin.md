@@ -1,8 +1,11 @@
 # Terms of Service - Door to Isekai
 
-**Version 1.9** | Last Updated: 2025-11-28
+**Version 2.0** | **Last Updated: 2026-02-11**
+
+---
 
 ## 1. Service Description
+
 Door to Isekai ("the Portal") is a development tool that connects your Unreal Engine editor to AI services (GPT, Claude, Gemini, etc.) through encrypted channels. Your project data and commands may be transmitted when you opt in (connectors) or manually upload MCP responses; there is no automatic transmission.
 
 The local portal uses a **12-digit, time-limited activation code** to enable MCP tools on your machine. OAuth/JWT may be used *only* for connecting to external AI services (e.g., ChatGPT, Claude, Gemini, local LLMs) and is not required for local portal activation.
@@ -18,11 +21,12 @@ The local portal uses a **12-digit, time-limited activation code** to enable MCP
 *   Activation via 12-digit time-limited code for local portal
 
 ### What We Cannot Protect:
-If your computer has been compromised by malware, hacking, or unauthorized access **("conquered by a Demon Lord")**, our encryption cannot prevent data exposure at the device level. The attacker already controls your system before data enters our protection.
+If your computer has been compromised by malware, hacking, or unauthorized access **("conquered by a Demon Lord" - i.e., third-party illegal system intrusion and loss of device control)**, our encryption cannot prevent data exposure at the device level. The attacker already controls your system before data enters our protection.
 
 We also cannot control untrusted networks (e.g., rogue Wi‑Fi). We enforce HTTPS-only, HSTS, and certificate validation/pinning to mitigate MITM/SSL stripping, but your network environment remains outside our control.
 
 ## 3. Limitation of Liability
+
 **TO THE EXTENT PERMITTED BY LAW, WE ARE NOT LIABLE FOR:**
 *   Data breaches caused by compromised, hacked, or malware-infected user devices
 *   Security incidents resulting from user's failure to maintain device security
@@ -42,6 +46,7 @@ To the extent permitted by law, our total aggregate liability for all claims ari
 *   Breaches of applicable data protection regulations (GDPR, etc.) within our control
 
 ## 4. Your Responsibilities
+
 You agree to:
 *   Maintain your device security (anti-virus, firewall, OS updates)
 *   Use strong passwords and enable two-factor authentication where available
@@ -52,15 +57,12 @@ You agree to:
 **Always backup your project (Version Control) before running automated tools. We are not responsible for irreversible data loss.**
 
 ## 4.1 User Eligibility & Age Requirements
+
 **This service is a professional development tool intended for software developers.**
 
 **Minimum Age Requirements by Region:**
 *   **United States:** 13 years (COPPA compliance)
-*   **European Union/EEA:**
-    *   16 years: Germany, Ireland, Netherlands, Hungary, Luxembourg, Slovakia (and General GDPR age)
-    *   15 years: France, Greece, Czech Republic
-    *   14 years: Austria, Italy, Lithuania, Spain
-    *   13 years: Belgium, Denmark, Estonia, Finland, Latvia, Malta, Portugal, Sweden, UK
+*   **European Union/EEA:** 13-16 years (depending on country specific laws)
 *   **South Korea:** 14 years
 *   **Japan:** 13 years
 *   **Australia:** 13 years
@@ -78,48 +80,57 @@ You agree to:
 **Professional Use Declaration:**
 This service processes professional development content (source code, project files). Users represent that they have the legal right to transmit any project data to External Services.
 
-## 5. Data Transmission Notice
-By using the Portal, you acknowledge and agree that:
+## 4.2 Indemnification
 
+To the fullest extent permitted by applicable law, you agree to indemnify, defend, and hold harmless **Door to Isekai**, its developers, affiliates, officers, directors, employees, agents, and licensors (collectively, the "Indemnified Parties") from and against any and all claims, damages, obligations, losses, liabilities, costs, and expenses (including but not limited to reasonable attorney's fees) arising from or related to:
+
+*   Your access to or use of the Service, including any data, content, or work product (e.g., code, assets) you generate, transmit, or display using the Service;
+*   Your violation of these Terms of Service;
+*   Your violation of any third-party right, including without limitation any copyright, property, or privacy right;
+*   Any claim that your content caused damage to a third party.
+
+This defense and indemnification obligation will survive these Terms of Service and your use of the Service. You agree to cooperate as fully as reasonably required in the defense of any claim. We reserve the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and you shall not in any event settle any matter without our written consent.
+
+## 5. Data Transmission Notice
+
+By using the Portal, you acknowledge and agree that:
 *   **Local by Default:** Your Unreal Engine project data (blueprints, C++ code, assets) is processed locally. It is **NOT** transmitted to External Services automatically by default.
 *   **User-Initiated Transmission:** Transmission to External Services (e.g., ChatGPT, Claude) occurs only when you:
     *   Manually copy/upload MCP tool responses
     *   Explicitly enable "Auto-Send" mode (opt-in, time-limited)
     *   Use the "Review & Send" feature to approve specific responses
-*   **Local Direct Connections:** You may connect local MCP clients (e.g., Claude Code, terminal tools) directly to the Portal via localhost. In this case, data bypasses our backend relay and is transmitted directly from your machine to the connected local client. We are not responsible for the security, privacy practices, or data handling of any local clients you choose to connect.
-*   **Third-Party Services:** Data is transmitted to **External Services or local tools that YOU explicitly connect and configure** (e.g., via MCP connectors, CLI tools, or API keys). We do not control which services you connect to, nor do we have knowledge of their specific destinations.
-*   **Provider Independence:** Each External Service provider is an independent company or entity with its own terms, privacy policy, and data usage practices. We do not control how these providers process, store, or use your data.
+*   **Local Direct Connections:** You may connect local MCP clients directly via localhost. In this case, data bypasses our backend relay.
+*   **Third-Party Services:** Data is transmitted to **External Services or local tools that YOU explicitly connect and configure**. We do not control these services.
+*   **Provider Independence:** Each External Service provider is an independent entity with its own terms and privacy policy.
 *   **Your Responsibility:** You should review each External Service provider's terms and privacy policy before transmitting sensitive or confidential information.
 *   **International Transfer:** If you choose to transmit data, it will be transferred to the United States and other countries where External Service providers operate.
 
 ## 5.1 MCP Tool Response Local Storage
-**Privacy-by-Design Approach:** To minimize data exposure risks, MCP tool responses are saved locally on your machine.
 
+**Privacy-by-Design Approach:** To minimize data exposure risks, MCP tool responses are saved locally on your machine.
 *   **Local Files:** Responses are saved to `Saved/MCPResponse/` in your project.
 *   **No Auto-Upload:** The system does NOT upload these files to any server automatically.
 *   **Auto-Deletion:** Files are deleted after 1 hour or when the Editor closes.
 *   **Path Filtering:** Absolute paths are converted to relative paths to hide your system structure.
 
-**Note:** While we apply sensitive data filtering (masking absolute paths) before transmission, please note that error messages generated by the Engine may inherently contain specific file names or partial paths necessary for debugging.
+**Note:** While we apply sensitive data filtering, error messages may inherently contain specific file names or partial paths necessary for debugging.
 
 ## 5.2 Transmission Modes (Auto-Send & Review)
-The Portal offers optional modes to streamline your workflow. These are **disabled by default**.
 
-*   **Review & Send (Recommended):** Allows you to preview the tool response locally and explicitly click "Send" to transmit it to the External Service.
-*   **Auto-Send (Opt-in):** Automatically transmits tool responses to the External Service for a limited time (1 hour).
-    *   Requires explicit activation and consent via a warning dialog.
-    *   Automatically disables after 1 hour or upon Editor restart.
-    *   Response size limited to 1MB for automatic transmission.
+The Portal offers optional modes to streamline your workflow. These are **disabled by default**.
+*   **Review & Send (Recommended):** Allows you to preview the tool response locally and explicitly click "Send".
+*   **Auto-Send (Opt-in):** Automatically transmits tool responses for a limited time (1 hour). Requires explicit activation and consent.
 
 ## 5.3 Tool Execution Approval
-To prevent unintended changes to your project, the system enforces a **Tool Execution Approval** flow by default.
 
+To prevent unintended changes to your project, the system enforces a **Tool Execution Approval** flow by default.
 *   **Default ON:** All MCP tool executions require your manual approval in the Web UI.
 *   **User Control:** You can Approve or Deny any execution request.
 *   **Timeout:** Pending requests automatically expire if not approved within a set time.
 *   **Opt-Out:** You may disable this protection (Auto-Run), but doing so increases the risk of unintended project modifications.
 
 ## 5.4 AI Output & Development Tool Disclaimer
+
 **Nature of Service:** This service is strictly a **development aid tool**. It is NOT a runtime library intended to be shipped with your final game or application.
 
 *   **Verification Responsibility:** You acknowledge that AI-generated code, blueprints, or assets may contain errors, bugs, security vulnerabilities, or hallucinations. You are solely responsible for reviewing, testing, and debugging all AI outputs before incorporating them into your project.
@@ -127,48 +138,51 @@ To prevent unintended changes to your project, the system enforces a **Tool Exec
 *   **Intellectual Property of Output:** You are responsible for ensuring that the AI-generated content does not infringe upon third-party rights. We make no warranties regarding the uniqueness or copyright status of AI outputs.
 
 ## 6. Warranty Disclaimer
-**TO THE EXTENT PERMITTED BY LAW, THIS SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:**
-*   Implied warranties of merchantability
-*   Fitness for a particular purpose
-*   Non-infringement
-*   Uninterrupted or error-free operation
-*   Security or accuracy of data transmission
 
-We do not warrant that the Portal will meet your requirements or that defects will be corrected. Use is at your sole risk, subject to mandatory consumer protection laws.
+**TO THE EXTENT PERMITTED BY LAW, THIS SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED...**
+We do not warrant that the Portal will meet your requirements or that defects will be corrected. Use is at your sole risk.
 
 ## 6.1 Force Majeure
-Neither party is liable for any delay or failure to perform to the extent caused by events beyond its reasonable control ("Force Majeure"), including acts of God, government actions, war, terrorism, labor disputes, internet or telecom failures, power outages, third-party service outages, or epidemics/pandemics. The affected party will use commercially reasonable efforts to mitigate and resume performance. Payment obligations are not excused. If a Force Majeure event continues for more than 30 days, either party may terminate upon notice.
+
+Neither party is liable for any delay or failure to perform to the extent caused by events beyond its reasonable control ("Force Majeure").
 
 ## 7. Severability
+
 If any provision of these terms is found unenforceable, the remaining provisions remain in full force and effect.
 
 ## 8. Entire Agreement
-These Terms of Service, together with the Privacy Policy, constitute the entire agreement between you and us regarding the Portal service, and supersede all prior agreements or understandings.
+
+These Terms of Service, together with the Privacy Policy, constitute the entire agreement between you and us regarding the Portal service.
 
 ## 9. No Waiver
+
 Our failure to enforce any right or provision of these terms shall not be deemed a waiver of such right or provision.
 
 ## 10. Assignment
+
 You may not assign or transfer these terms without our prior written consent. We may assign these terms without restriction.
 
 ## 11. Governing Law & Jurisdiction
-These terms are governed by the laws of the **Republic of Korea**, *without prejudice to any mandatory consumer protection laws of your country of residence*. If you are a consumer resident in the EEA, the UK, or Switzerland, you may bring claims in the courts of your country of residence and your mandatory consumer protections will apply. Subject to the foregoing, any disputes shall be subject to the exclusive jurisdiction of the courts of **Seoul, Republic of Korea**.
+
+These terms are governed by the laws of the **Republic of Korea**, without prejudice to any mandatory consumer protection laws of your country of residence. Subject to mandatory laws, any disputes shall be subject to the exclusive jurisdiction of the courts of **Seoul, Republic of Korea**.
 
 ## 11.1 Dispute Resolution (US Residents)
-If you are a resident of the United States, to the extent permitted by law, any dispute arising out of or relating to these terms or the services shall be resolved by **binding individual arbitration** (administered by AAA or JAMS under applicable rules). **Class actions and class arbitrations are not permitted.** You may opt out of this arbitration agreement within 30 days of first accepting these terms by providing written notice through the contact information below. This section does not apply to claims that may be brought in small claims court.
+
+If you are a resident of the United States, any dispute shall be resolved by **binding individual arbitration**. **Class actions and class arbitrations are not permitted.** You may opt out of this arbitration agreement within 30 days.
 
 ## 12. Language
-These terms may be provided in multiple languages for convenience. In the event of any inconsistency or conflict between translations, the **English version** shall control to the extent permitted by law. Where applicable law requires a local language version to prevail, that requirement will be honored for users in that jurisdiction.
+
+In the event of any inconsistency or conflict between translations, the **English version** shall control to the extent permitted by law.
 
 ## 13. Changes to Terms
-We may update these terms. Continued use after changes constitutes acceptance. Material changes will be notified through the Portal interface.
+
+We may update these terms. Continued use after changes constitutes acceptance.
 
 ## 14. Contact
-For questions or notices (including arbitration opt-out for US residents):
-**[isekaitravel.pathfinder@gmail.com](mailto:isekaitravel.pathfinder@gmail.com)** or **[GitHub Issues](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai)**
+
+Email: **isekaitravel.pathfinder@gmail.com**
+GitHub: **https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai**
 
 ## 15. Intellectual Property & Licenses
-Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
-Unreal® Engine, Copyright 1998 – 2025, Epic Games, Inc. All rights reserved.
 
-This service is a third-party tool and is not affiliated with, endorsed by, or sponsored by Epic Games, Inc.
+Unreal® is a trademark or registered trademark of Epic Games, Inc. This service is a third-party tool and is not affiliated with, endorsed by, or sponsored by Epic Games, Inc.
