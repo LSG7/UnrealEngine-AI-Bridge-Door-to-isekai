@@ -29,7 +29,7 @@ After installing Python and Node, enter the following commands to install them.
 
          Gemini CLI  : npm install -g @google/gemini-cli  
          CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
-         Codex (GPT) : npm i -g @openai/codex
+         Codex (GPT) : npm install -g @openai/codex
    
          after npm install, run python script
          (in your Unreal Project Root) : python3 ./Plugins/UnrealEngine_AI_Bridge/isekai_aitool_setting.py
