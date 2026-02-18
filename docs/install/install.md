@@ -44,7 +44,7 @@ This was a description of each AI provider's fee policy.
 The cost of using AI is determined by each provider (Google, OpenAI, Antropic).  
 'Door to Isekai'  tool is operated solely on advertising.  
 This means that with Gemini CLI free tier, you can use 'Door to isekai' just by watching ads.  
-Alternatively, you can use a local LLM.
+Alternatively, you can use a local LLM. [Local LLM Manual](Local_LLM_install.md)  
 
 
 
