@@ -9,6 +9,9 @@ Signing up for a $20 flat rate plan with these companies will give you a pretty 
 
 
 And these companies' tools also provide context management and project management on their own.  
+
+
 Local LLMs offer free access to AI. However, their performance is significantly different from that of large LLMs offered by companies like Google.  
+In the future, I will offer a local LLM exclusively for Unreal for free.  
 
 ### I hope that anyone with a dream can use AI to create great games.  
