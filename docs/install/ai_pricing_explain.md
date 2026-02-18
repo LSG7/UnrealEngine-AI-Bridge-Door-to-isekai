@@ -1,4 +1,4 @@
-The AI ​​wrapper(like Cursor) method is expensive for consumers, as the wrapper operator makes a profit during the distribution process.    
+The AI ​​wrapper(like Cursor) method is expensive for consumers, as the wrapper operator makes a profit during the ai communication process.    
 I want as many people as possible to use AI affordably.   
 Students should be able to use AI too.  
 
