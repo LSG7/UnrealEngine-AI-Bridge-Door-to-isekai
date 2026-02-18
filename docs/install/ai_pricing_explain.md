@@ -8,3 +8,5 @@ Signing up for a $20 flat rate plan with these companies will give you a pretty 
 
 
 And these companies' tools also provide context management and project management on their own.  
+
+"I hope that anyone with a dream can use AI to create great games."  
