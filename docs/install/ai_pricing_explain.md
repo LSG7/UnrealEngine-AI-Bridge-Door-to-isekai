@@ -3,6 +3,7 @@ I want as many people as possible to use AI affordably.
 Students should be able to use AI too.  
 
 So I integrated Google's inexpensive tools, like the Google Gemini CLI, into my service.  
+The cheapest way to use AI is for consumers to sign up directly with these companies' services.  
 Gemini, Codex, and Claude also offer free usage.  
 Signing up for a $20 flat rate plan with these companies will give you a pretty hefty usage allowance.  
 
