@@ -12,6 +12,6 @@ And these companies' tools also provide context management and project managemen
 
 
 Local LLMs offer free access to AI. However, their performance is significantly different from that of large LLMs offered by companies like Google.  
-In the future, I will offer a local LLM exclusively for Unreal for free.  
+In the future, I will teach an Unreal-specific LLM and offer it for free.  
 
 ### I hope that anyone with a dream can use AI to create great games.  
