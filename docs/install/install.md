@@ -26,6 +26,7 @@ link : I will upload after ios releasing.
 1. Set up AI tools     
 Please check the installation method of each AI tool in the youtube video.  
 After installing Python and Node, enter the following commands to install them.
+[Why do we use AI like this?](ai_pricing_explain.md)
 
          Gemini CLI  : npm install -g @google/gemini-cli  
          CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
