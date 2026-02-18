@@ -26,7 +26,6 @@ link : I will upload after ios releasing.
 1. Set up AI tools     
 Please check the installation method of each AI tool in the youtube video.  
 After installing Python and Node, enter the following commands to install them.
-[Why do we use AI like this?](ai_pricing_explain.md)
 
          Gemini CLI  : npm install -g @google/gemini-cli  
          CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
@@ -37,7 +36,7 @@ After installing Python and Node, enter the following commands to install them.
 
          Claude Desktop : Youtube manual https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u
 
-3. Notice  
+3. Notice [Why do we use AI like this?](ai_pricing_explain.md)  
 'Door to isekai' is a bridge tool that connects external AI providers with Unreal Engine.  
 **We do not provide the AI models directly.  Please sign up and subscribe to AI providers separately.**   
 **Gemini CLI, Claude Desktop offers a free tier.**  Claude code, Codex CLI(GPT) is only available to paid users.  
