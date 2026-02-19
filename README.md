@@ -1,9 +1,8 @@
 ![](docs/images/Door_0.png)
 # Door to isekai Project
 
-## ✨ Notice: Just before launch   
-I'm testing it out for the last time.
-
+## ✨ Notice:  
+Local LLM in development. Release postponed.
 
 ## 💫 What is this?
 - Problem:  
