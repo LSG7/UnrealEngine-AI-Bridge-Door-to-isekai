@@ -2,9 +2,7 @@
 # Door to isekai Project
 
 ## ✨ Notice:  
-Local LLM in development. Release postponed.  
-A quantum jump is happening.  
-Please wait a little longer.  
+Local LLM in development.   
 
 ## 💫 What is this?
 - Problem:  
