@@ -2,7 +2,7 @@
 # Door to isekai Project
 
 ## ✨ Notice:  
-Local LLM in development.   
+  
 
 ## 💫 What is this?
 - Problem:  
@@ -28,3 +28,7 @@ We can make isekai
 
 ## ❓ QnA  
 - [QnA](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/QnA/QnA.md)
+
+## 📝 Long term planning  
+- [Plan](docs/log/plan.md)
+
