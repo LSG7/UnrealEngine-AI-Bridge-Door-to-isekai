@@ -1,3 +1,4 @@
 
 ### Todo
-- After the official launch, I'll focus on auto-generating the game. The tasks are already set. I just need to create the path.
+1. Local LLM
+2. Game Automatic creation function
