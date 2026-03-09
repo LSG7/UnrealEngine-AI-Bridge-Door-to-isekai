@@ -13,8 +13,8 @@
   AIs can understand and manipulate unreal project using this tool.  
 
 ## 🌀 Manual  
- 1. [Install doc](docs/install/install.md) 
- 2. [how to use doc](docs/howtouse/howtouse.md)
+ 1. [Install doc](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/install/install.md) 
+ 2. [how to use doc](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)
 
 ## 🌌 Youtube Example
 - [Youtube List](https://www.youtube.com/@IsekaiTravel-DoorToIsekai)
