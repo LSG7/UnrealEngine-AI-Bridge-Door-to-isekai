@@ -41,18 +41,18 @@ After installing Python and Node, enter the following commands to install them.
 3. Notice [Why do we use AI like this?](ai_pricing_explain.md)  
 'Door to isekai' is a bridge tool that connects external AI providers with Unreal Engine.  
 **We do not provide the AI models directly.  Please sign up and subscribe to AI providers separately.**   
-**Gemini CLI, Claude Desktop offers a free tier.**  Claude code, Codex CLI(GPT) is only available to paid users.  
+**Gemini, Qwen, Claude Desktop offers a free tier.**  Claude code, Codex CLI(GPT) is only available to paid users.  
 This was a description of each AI provider's fee policy.  
 The cost of using AI is determined by each provider (Google, OpenAI, Antropic).  
 'Door to Isekai'  tool is operated solely on advertising.  
-This means that with Gemini CLI free tier, you can use 'Door to isekai' just by watching ads.  
+This means that with Gemini free tier, you can use 'Door to isekai' just by watching ads.  
 Alternatively, you can use a local LLM. [Local LLM Manual](Local_LLM_install.md)  
 
 
 
 4. AI providers offering free tier  
    These are AI tools that can be used with 'Door to isekai'.  
-   Gemini CLI, Claude Desktop  
+   Gemini, Qwen, Claude Desktop  
 
 
 ### [Goto Next Step : How to use](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)
