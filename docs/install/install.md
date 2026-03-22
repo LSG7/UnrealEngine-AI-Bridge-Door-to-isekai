@@ -31,8 +31,10 @@ After installing Python and Node, enter the following commands to install them.
          CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
          Codex (GPT) : npm install -g @openai/codex
    
-         after npm install, run python script
-         (in your Unreal Project Root) : Plugins\UnrealEngine_AI_Bridge\isekai_aitool_setting.exe
+         after npm install, run program
+         in your Unreal Project Root
+         (Windows) : Plugins\UnrealEngine_AI_Bridge\isekai_aitool_setting.exe
+         (MacOS) : Plugins/UnrealEngine_AI_Bridge/isekai_aitool_setting
 
          Claude Desktop : Youtube manual https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u
 
