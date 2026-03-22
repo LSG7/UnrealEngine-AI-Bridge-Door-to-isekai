@@ -32,7 +32,7 @@ After installing Python and Node, enter the following commands to install them.
          Codex (GPT) : npm install -g @openai/codex
    
          after npm install, run python script
-         (in your Unreal Project Root) : python3 ./Plugins/UnrealEngine_AI_Bridge/isekai_aitool_setting.py
+         (in your Unreal Project Root) : Plugins\UnrealEngine_AI_Bridge\isekai_aitool_setting.exe
 
          Claude Desktop : Youtube manual https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u
 
