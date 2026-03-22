@@ -30,6 +30,7 @@ After installing Python and Node, enter the following commands to install them.
          Gemini CLI  : npm install -g @google/gemini-cli  
          CLAUDE CODE : npm install -g @anthropic-ai/claude-code  
          Codex (GPT) : npm install -g @openai/codex
+         Qwen        : npm install -g @qwen-code/qwen-code@latest
    
          after npm install, run program
          in your Unreal Project Root
