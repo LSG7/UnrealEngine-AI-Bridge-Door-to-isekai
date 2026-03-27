@@ -1,0 +1,21 @@
+## Our plugin enables the following plugins.  
+  
+  - EditorScriptingUtilities
+  - PCG
+  - TextureGraph
+  - AssetManagerEditor
+  - EnvironmentQueryEditor
+  - ChaosCloth
+  - Niagara
+  - OnlineSubsystem
+  - OnlineSubsystemUtils
+  - Water
+  - ProceduralMeshComponent
+  - PropertyBindingUtils
+  - ControlRig
+  - IKRig
+  - PoseSearch
+  - StateTree
+  - Paper2D
+  - Metasound
+  - RigVM
