@@ -55,7 +55,8 @@ Alternatively, you can use a local LLM. [Local LLM Manual](Local_LLM_install.md)
    These are AI tools that can be used with 'Door to isekai'.  
    Gemini, Qwen, Claude Desktop  
 
-5. Plugins enabled by Door to isekai
+5. Plugins enabled by Ours
+   [Plugins](Plugins.md) 
    
 
 ### [Goto Next Step : How to use](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)
