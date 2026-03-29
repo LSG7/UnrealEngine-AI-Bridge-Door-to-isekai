@@ -4,4 +4,4 @@
 
 ### 2. Use Example
 
-### 3. Things to know  
+### 3. [Things to know ](thingstoknow.md)  
