@@ -21,7 +21,7 @@ link : https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/releases
 3. You can find the our plugin in Plugins (Unreal Editor Menubar : Edit -> Plugins) [example image](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/images/Plugins_0.png) 
 4. You can open the our plugin panel at 'Unreal Editor Menubar Tools->Door to isekai' [example image](https://github.com/LSG7/UnrealEngine_AI_Bridge/blob/main/docs/images/Plugins_1.png)
 
-### 3. Set up Ai Tools  [Youtube Manual](https://youtu.be/rIVxZb-hVF4)  
+### 3. Set up Ai Tools  [Youtube Manual](https://youtu.be/1NpWyyGsTrc?si=7tgMVsCIR760Db9Y)  
 
 1. Set up AI tools     
 Please check the installation method of each AI tool in the youtube video.  
@@ -37,7 +37,7 @@ After installing Python and Node, enter the following commands to install them.
          (Windows) : Plugins\UnrealEngine_AI_Bridge\isekai_aitool_setting.exe
          (MacOS) : Plugins/UnrealEngine_AI_Bridge/isekai_aitool_setting
 
-         Claude Desktop : Youtube manual https://youtu.be/7LUHgiD3LDQ?si=z2gN2I6KSBrWbF_u
+         Claude Desktop : Youtube manual https://youtu.be/L1lFa55roe0?si=GS7bHS_WHfwQQlTR  
 
 3. Notice [Why do we use AI like this?](ai_pricing_explain.md)  
 'Door to isekai' is a bridge tool that connects external AI providers with Unreal Engine.  
