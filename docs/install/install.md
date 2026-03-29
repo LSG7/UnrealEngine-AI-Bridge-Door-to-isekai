@@ -12,7 +12,7 @@ The app only serves advertising and activation functions.
 
 
 
-### 2. Downlaod Unreal Editor Plugin  
+### 2. Downlaod Unreal Editor Plugin  [Youtube Manual](https://youtu.be/UwUTaqj9kqg?si=RYBMqMClCMs3gROU)  
 'Door to isekai' is implemented as an Unreal Engine plugin.  
 
 1. Download the file that matches your required OS and UE version from the link.  
