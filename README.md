@@ -17,7 +17,7 @@
  2. [how to use doc](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)
 
 ## 🌌 Youtube Example
-- [Youtube List](https://www.youtube.com/@IsekaiTravel-DoorToIsekai)
+- [Youtube List](https://youtube.com/playlist?list=PLhZdLnhIqSnwOIIBENY2BTVYO2itKK-RA&si=EDOgRrpYQTueQCXu)
 
 ## 🪐 Your Voice  
 Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)  
