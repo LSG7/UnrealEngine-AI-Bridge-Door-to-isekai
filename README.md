@@ -2,7 +2,7 @@
 # Door to isekai Project
 
 ## ✨ Notice:  
-  
+  Released on April 1, 2026  
 
 ## 💫 What is this?
 - Problem:  
