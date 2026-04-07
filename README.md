@@ -23,7 +23,7 @@
 ## 🪐 Your Voice  
 Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)  
 We can make isekai
-Discord : https://discord.gg/ZRHMB75Y  
+Discord : https://discord.gg/k3sY3h4ENZ    
 
 ## ⭐ Root Project  
 - [NorthStar](https://github.com/LSG7/NorthStar)  
