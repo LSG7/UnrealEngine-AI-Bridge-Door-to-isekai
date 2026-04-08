@@ -1,0 +1,123 @@
+UnrealEngine_AI_Bridge Plugin License
+
+Copyright (c) 2026 Isekai Travel. All rights reserved.
+
+Version: 1.0
+Effective Date: 2026-04-09
+
+1. Scope
+
+This license applies only to the UnrealEngine_AI_Bridge plugin and the files
+distributed with that plugin by Isekai Travel, excluding:
+
+- Unreal Engine and any Epic Games content or technology
+- third-party components distributed under separate license terms
+
+2. License Grant
+
+Subject to this license, Isekai Travel grants you a limited, non-exclusive,
+non-transferable, non-sublicensable license to:
+
+- install and use the plugin for development purposes with Unreal Engine
+- use the plugin internally within your personal, educational, or company
+  development workflows
+- make a reasonable number of backup copies for internal use
+
+3. Development-Time Tool Only
+
+The plugin is a development-time tool. It is not licensed for runtime
+inclusion in shipped games, applications, or other end-user products.
+
+You may create commercial products using the plugin during development, but
+you may not ship or redistribute the plugin itself as part of those products.
+
+4. Restrictions
+
+Unless required by applicable law or expressly permitted in writing by
+Isekai Travel, you may not:
+
+- redistribute, sublicense, sell, rent, lease, lend, publish, or otherwise
+  make the plugin available to third parties
+- include the plugin, its binaries, or its support tools in any shipped game,
+  application, SDK, modding kit, or other end-user deliverable
+- repackage, rebrand, or present the plugin as your own product
+- remove or alter copyright, trademark, license, or attribution notices
+- use the plugin to bypass, disable, or interfere with security, activation,
+  rate-limiting, or service protection mechanisms
+- reverse engineer, decompile, or disassemble the plugin, except to the
+  limited extent such restriction is prohibited by applicable law
+
+5. Unreal Engine and Epic Games
+
+This plugin is designed for use with Unreal Engine and may depend on Unreal
+Engine editor modules, APIs, tools, or other Epic Games technology.
+
+Your use, distribution, access, and development activities involving Unreal
+Engine remain subject to the applicable Epic Games agreements, including the
+Unreal Engine End User License Agreement.
+
+No license is granted under this document to Unreal Engine, Epic Games
+technology, or Epic Games intellectual property. All rights in Unreal Engine
+and related Epic technology remain with Epic Games and its licensors.
+
+If any provision of this license is interpreted inconsistently with applicable
+Epic Games license terms, the Epic Games terms control with respect to Unreal
+Engine and Epic-provided technology.
+
+6. Third-Party Components
+
+The plugin may include or depend on third-party software, assets, fonts,
+libraries, or tools that are subject to separate license terms.
+
+Those components remain subject to their own licenses. Where provided,
+third-party notices and licenses are described in THIRD_PARTY_LICENSES.md.
+
+7. Service Components
+
+If you use related Door to Isekai services such as hosted backend services,
+activation systems, local web UI legal pages, or mobile applications, those
+services may be governed by separate terms, notices, or policies in addition
+to this plugin license.
+
+8. Ownership
+
+Except for the limited license expressly granted above, all rights, title, and
+interest in and to the plugin are reserved by Isekai Travel.
+
+This license grants permission to use the plugin only. It does not transfer
+ownership of the plugin or any underlying intellectual property.
+
+9. Disclaimer of Warranty
+
+THE PLUGIN IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY,
+SECURITY, OR THAT THE PLUGIN WILL OPERATE WITHOUT INTERRUPTION OR ERROR.
+
+10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ISEKAI TRAVEL WILL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE
+DAMAGES, OR FOR ANY LOSS OF DATA, REVENUE, PROFITS, GOODWILL, OR BUSINESS
+INTERRUPTION, ARISING OUT OF OR RELATING TO THE PLUGIN OR ITS USE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE TOTAL AGGREGATE LIABILITY OF
+ISEKAI TRAVEL ARISING OUT OF OR RELATING TO THE PLUGIN WILL NOT EXCEED THE
+AMOUNT YOU PAID FOR THE PLUGIN, OR USD 20 IF YOU PAID NOTHING.
+
+11. Termination
+
+This license terminates automatically if you breach it. Upon termination, you
+must stop using the plugin and delete all copies in your possession or control,
+except where retention is required by law.
+
+12. Governing Law
+
+This license is governed by the laws of the Republic of Korea, excluding
+conflict-of-laws rules, subject to any mandatory consumer protection laws that
+apply in your jurisdiction.
+
+13. Contact
+
+Licensing inquiries:
+isekaitravel.pathfinder@gmail.com
