@@ -21,11 +21,15 @@ non-transferable, non-sublicensable license to:
 - install and use the plugin for development purposes with Unreal Engine
 - use the plugin internally within your personal, educational, or company
   development workflows
-- make a reasonable number of backup copies for internal use
+- make copies strictly necessary for your own internal installation, backup,
+  and disaster recovery purposes
 
 You may use the plugin only if you are using Unreal Engine under applicable
 Epic Games terms and are otherwise permitted to access the distribution
 channel from which you obtained the plugin.
+
+Unless Isekai Travel expressly permits otherwise in writing, each user must
+obtain the plugin directly from an authorized distribution channel.
 
 3. Development-Time Tool Only
 
@@ -42,6 +46,9 @@ Isekai Travel, you may not:
 
 - redistribute, sublicense, sell, rent, lease, lend, publish, or otherwise
   make the plugin available to third parties
+- share downloaded copies of the plugin with other users, teams, customers,
+  contractors, or affiliates, except as expressly permitted in writing by
+  Isekai Travel
 - upload, mirror, repost, or re-host the plugin on public or unauthorized
   repositories, file-sharing services, package feeds, or download pages
 - include the plugin, its binaries, or its support tools in any shipped game,
