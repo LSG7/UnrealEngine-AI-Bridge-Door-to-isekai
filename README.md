@@ -4,7 +4,7 @@
 ## ✨ Notice:  
 
   Released on April 1, 2026  
-  Ongoing Work: Simplifying 2D to 3D model creation  
+  
 
 ## 💫 What is this?
 - Problem:  
