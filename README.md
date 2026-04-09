@@ -25,6 +25,7 @@
 ## 🪐 Your Voice  
 Please leave your comments on the github issue. [here](https://github.com/LSG7/UnrealEngine_AI_Bridge/issues)    
 Discord : https://discord.gg/k3sY3h4ENZ      
+kakao : https://open.kakao.com/o/g8txPzoi  
 
 ## ⭐ Root Project  
 - [NorthStar](https://github.com/LSG7/NorthStar)  
