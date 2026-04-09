@@ -14,8 +14,9 @@ The app only serves advertising and activation functions.
 
 ### 2. Downlaod Unreal Editor Plugin  [Youtube Manual](https://youtu.be/UwUTaqj9kqg?si=RYBMqMClCMs3gROU)  
 'Door to isekai' is implemented as an Unreal Engine plugin.  
-Please follow the instructions on the next page to gain access to the Unreal Engine source code.  
-https://www.unrealengine.com/en-US/ue-on-github  
+Please follow the instructions on the [this page](https://www.unrealengine.com/en-US/ue-on-github) to gain access to the Unreal Engine source code.  
+You will need both an Epic Games account and a GitHub account.  
+  
 
 1. Download the file that matches your required OS and UE version from the link.  
 link : https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/releases   
