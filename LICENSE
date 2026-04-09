@@ -23,6 +23,10 @@ non-transferable, non-sublicensable license to:
   development workflows
 - make a reasonable number of backup copies for internal use
 
+You may use the plugin only if you are using Unreal Engine under applicable
+Epic Games terms and are otherwise permitted to access the distribution
+channel from which you obtained the plugin.
+
 3. Development-Time Tool Only
 
 The plugin is a development-time tool. It is not licensed for runtime
@@ -38,6 +42,8 @@ Isekai Travel, you may not:
 
 - redistribute, sublicense, sell, rent, lease, lend, publish, or otherwise
   make the plugin available to third parties
+- upload, mirror, repost, or re-host the plugin on public or unauthorized
+  repositories, file-sharing services, package feeds, or download pages
 - include the plugin, its binaries, or its support tools in any shipped game,
   application, SDK, modding kit, or other end-user deliverable
 - repackage, rebrand, or present the plugin as your own product
@@ -46,6 +52,10 @@ Isekai Travel, you may not:
   rate-limiting, or service protection mechanisms
 - reverse engineer, decompile, or disassemble the plugin, except to the
   limited extent such restriction is prohibited by applicable law
+
+Access to the plugin through a private repository, release page, or other
+restricted distribution channel does not grant you any right to further
+redistribute the plugin.
 
 5. Unreal Engine and Epic Games
 
@@ -78,6 +88,9 @@ If you use related Door to Isekai services such as hosted backend services,
 activation systems, local web UI legal pages, or mobile applications, those
 services may be governed by separate terms, notices, or policies in addition
 to this plugin license.
+
+This license governs only the plugin itself and does not replace or supersede
+separate terms that apply to related services or service-backed features.
 
 8. Ownership
 
