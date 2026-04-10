@@ -54,9 +54,8 @@ Alternatively, you can use a local LLM. [Local LLM Manual](Local_LLM_install.md)
 
 
 
-4. AI providers offering free tier  
-   These are AI tools that can be used with 'Door to isekai'.  
-   Gemini, Qwen, Claude Desktop  
+4. AI providers offering free tier    
+   Gemini CLI, Qwen CLI, Claude Desktop  
 
 ### Plugins enabled by Ours  
    [Plugins](Plugins.md) 
