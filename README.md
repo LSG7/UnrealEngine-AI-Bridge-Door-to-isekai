@@ -17,8 +17,8 @@
 ## 🌀 Manual  
  1. [Install doc](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/install/install.md) 
  2. [how to use doc](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/howtouse.md)
- 3. No payment required. Just watch an ad
- 4. [Things you should know]()  
+ 3. No payment required. Just watch an ad  
+ 4. [Things you should know](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/howtouse/thingstoknow.md)   
 
 ## 🌌 Youtube Example
 - [Youtube List](https://youtube.com/playlist?list=PLhZdLnhIqSnwOIIBENY2BTVYO2itKK-RA&si=EDOgRrpYQTueQCXu)
