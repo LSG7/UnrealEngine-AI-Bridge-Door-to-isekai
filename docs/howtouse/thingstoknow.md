@@ -1,4 +1,4 @@
-1. You must execute the 'how_to_use_this_tool' tool first before starting any conversation with the AI.  
+1. You must ask AI "execute the how_to_use_this_tool" tool first before starting any conversation with the AI.  
    This tool is a manual that provides the AI with instructions on how to use the plugin.
 2. Ask AI to "explain using AI explainer."  
    This will generate a report on the explainer page.  
