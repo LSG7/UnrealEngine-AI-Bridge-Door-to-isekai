@@ -12,7 +12,8 @@
 - Solution:  
   'Door to isekai' UnrealEngine Plugin allows AIs(gpt,claude,gemini) to control the Unreal Engine editor.  
   It's the Unreal version of what's known as Vibe Coding.  
-  AIs can understand and manipulate unreal project using this tool.  
+  AIs can understand and manipulate unreal project using this tool.
+  AI can control most of the editor's features. Any currently missing functionalities will be added shortly.  
 
 ## 🌀 Manual  
  1. [Install doc](https://github.com/LSG7/UnrealEngine-AI-Bridge-Door-to-isekai/blob/main/docs/install/install.md) 
