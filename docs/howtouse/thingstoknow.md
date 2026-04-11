@@ -1,6 +1,6 @@
 1. This plugin is available for use for one month from its release date.  
    Once this period expires, please download and use the latest version.   
-3. You must ask AI "execute how_to_use_this_tool mcp tool" tool first before starting any conversation with the AI.  
+3. You must ask AI "execute how_to_use_this_tool mcp tool" first before starting any conversation with the AI.  
    This tool is a manual that provides the AI with instructions on how to use the plugin.
 4. Ask AI to "explain using AI explainer."  
    This will generate a report on the explainer page.  
