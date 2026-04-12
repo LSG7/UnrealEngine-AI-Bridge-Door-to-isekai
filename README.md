@@ -1,11 +1,9 @@
 ![](docs/images/Door_0.png)
-# Door to isekai Project
-
+# Door to isekai Project  
+Released on April 1, 2026  
 ## ✨ Notice:  
-  on going : Performance Analysis Tools
-  Released on April 1, 2026  
+  on going : Performance Analysis Tools  
   
-
 ## 💫 What is this?
 - Problem:  
   We need AI to make game world but AI(LLM) doesn't understand unreal project and editor.  
